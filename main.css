@@ -1,0 +1,30 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-style: 25px;
+}
+.wrapper{
+	width: 600px;
+	margin: 50px auto;
+
+}
+.box{
+	width: 500px;
+	float: left;
+	
+}
+.box img{
+	width: 430px;
+	border:5px solid green;
+	margin:25px;
+	padding:2px;
+}
+article{
+	font-style:25px;
+	float:left;
+	margin:25px;
+	border:5px solid red;
+	padding:15px 15px 15px 15px;
+}
